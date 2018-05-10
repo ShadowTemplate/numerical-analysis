@@ -15,7 +15,7 @@ iterative methods and machine numbers.
 
 **Development year(s)**: `2013`
 
-**Authors**: **Authors**: [ShadowTemplate](https://github.com/ShadowTemplate)
+**Authors**: [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
 ## Building tools
