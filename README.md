@@ -20,7 +20,7 @@ iterative methods and machine numbers.
 ---
 ## Building tools
 
-* [Scilab](http://www.scilab.org/)
+* [Scilab](http://www.scilab.org/) - Scripting language
 
 ---
 ## Contributing
